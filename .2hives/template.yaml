@@ -1,0 +1,13 @@
+slug: it-consulting
+name: IT consulting firm
+description: "Boutique IT consulting — pre-sales, architecture, delivery, devops, security, client success."
+category: professional-services
+recommended_agents:
+  - presales-discovery
+  - architecture-design
+  - delivery
+  - devops-platform
+  - security-compliance
+  - client-success
+icon: server
+order: 50
