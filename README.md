@@ -1,6 +1,6 @@
 # IT consulting firm
 
-A starter project for a boutique IT consulting firm (architecture, delivery, devops, security). Six lanes covering the engagement lifecycle.
+A starter Hive for a boutique IT consulting firm (architecture, delivery, devops, security). Six lanes covering the engagement lifecycle.
 
 ## What's in this template
 
